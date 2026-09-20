@@ -1,1 +1,1 @@
-# SLM-1
+# Applied Mathematics
